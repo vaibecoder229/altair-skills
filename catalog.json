@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "id": "pomodoro",
+      "name": "Фокус-помодоро",
+      "description": "Циклы 25/5 с голосовыми напоминаниями и музыкой на перерыве",
+      "file": "pomodoro.md",
+      "tags": [
+        "продуктивность"
+      ],
+      "version": "1.0"
+    },
+    {
+      "id": "day_plan",
+      "name": "План дня",
+      "description": "Раскладка задач в todo и напоминания по времени из одной фразы",
+      "file": "day_plan.md",
+      "tags": [
+        "продуктивность"
+      ],
+      "version": "1.0"
+    },
+    {
+      "id": "journal",
+      "name": "Дневник",
+      "description": "Записи дня в markdown-файл в Документах с итогом и памятью",
+      "file": "journal.md",
+      "tags": [
+        "личное"
+      ],
+      "version": "1.0"
+    },
+    {
+      "id": "shopping",
+      "name": "Список покупок",
+      "description": "«Добавь молоко в список покупок» — ведёт файл со списком",
+      "file": "shopping.md",
+      "tags": [
+        "личное"
+      ],
+      "version": "1.0"
+    },
+    {
+      "id": "gift_ideas",
+      "name": "Идеи подарков",
+      "description": "Уточняет вкусы и бюджет, ищет 5 вариантов подарка",
+      "file": "gift_ideas.md",
+      "tags": [
+        "помощь"
+      ],
+      "version": "1.0"
+    }
+  ]
+}
